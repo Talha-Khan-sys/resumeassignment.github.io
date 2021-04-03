@@ -1,0 +1,59 @@
+.heading {
+    color: #fff;
+    position: absolute;
+    top: 83%;
+    width: 35%;
+    text-align: center;
+ }
+ #a {
+    color: #00FA9A;
+    position: absolute;
+    top: 90%;
+    width: 35%;
+    text-align: center;
+ }
+ #t{
+    color:  #00FA9A;
+ }
+#aa{
+    text-align: right;
+    top: 46%;
+    position: absolute;
+    width: 40%;
+    color: #fff;    
+}
+#ab{ 
+    text-align: right;
+    top: 52%;
+    position: absolute;
+    width: 40%;     
+}
+#ac{ 
+    text-align: right;
+    top: 70%;
+    position: absolute;
+    width: 40%;
+    color: #fff; 
+}
+#ad{
+    text-align: right;
+    top: 76%;
+    position: absolute;
+    width: 40%;   
+}
+.AA{
+    color: #696969;
+    background-color: #000;
+}
+#ae{
+    color: #fff;
+}
+#af{
+    color: #fff;
+}
+#ag{
+    color: #fff;
+}
+#ah{
+    color: #fff;
+}
